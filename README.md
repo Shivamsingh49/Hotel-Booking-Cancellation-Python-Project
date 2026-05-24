@@ -1,10 +1,10 @@
-**Project Overview**
+**Project Overview:**
 This project focuses on analyzing hotel booking data to uncover insights related to booking patterns, cancellations, customer behavior, room preferences, 
 and revenue trends. The analysis was performed using Python in Jupyter Notebook with the help of data analysis and visualization libraries.
 The main goal of this project is to perform Exploratory Data Analysis (EDA) and identify important business insights that can help hotels improve customer 
 experience and reduce booking cancellations.
 
-**Dataset**
+**Dataset:**
 The dataset contains hotel booking information such as:
 - Hotel type
 - Booking dates
@@ -36,7 +36,7 @@ The dataset contains hotel booking information such as:
 - Processed categorical values
 
 3. Exploratory Data Analysis (EDA)
-P- erformed analysis on:
+Performed analysis on:
 - Booking cancellations
 - Hotel-wise booking trends
 - Country-wise guest distribution
@@ -55,11 +55,11 @@ P- erformed analysis on:
 - Correlation analysis
 
 **Key Insights**
-City hotels received more bookings compared to resort hotels.
-Certain months had significantly higher booking demand.
-Cancellation rates were higher for specific market segments.
-ADR varied across hotel types and seasons.
-Customer booking behavior showed seasonal trends.
+- City hotels received more bookings compared to resort hotels.
+- Certain months had significantly higher booking demand.
+- Cancellation rates were higher for specific market segments.
+- ADR varied across hotel types and seasons.
+- Customer booking behavior showed seasonal trends.
 
 **Learning Outcomes**
 Through this project, I improved my skills in:
